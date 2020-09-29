@@ -1,4 +1,6 @@
 # Vue + ElementUI 后台管理系统框架
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDollhouse-18%2Fvue-backend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDollhouse-18%2Fvue-backend?ref=badge_shield)
+
 
 ## **在线预览**
 [https://harsima.github.io/vue-backend](https://harsima.github.io/vue-backend)
@@ -63,3 +65,6 @@ server {
 ## 其他
 欢迎反馈及探讨各种问题，同时请注意issue规则。
 QQ交流群：745454791
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDollhouse-18%2Fvue-backend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDollhouse-18%2Fvue-backend?ref=badge_large)
